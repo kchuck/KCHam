@@ -1,0 +1,10 @@
+C:\KCHam\KCHam\obj\Debug\KCHam.Properties.Resources.resources
+C:\KCHam\KCHam\obj\Debug\KCHam.csproj.GenerateResource.cache
+C:\KCHam\KCHam\obj\Debug\KCHam.csproj.CoreCompileInputs.cache
+C:\KCHam\KCHam\bin\Debug\KCHam.exe.config
+C:\KCHam\KCHam\bin\Debug\KCHam.exe
+C:\KCHam\KCHam\bin\Debug\KCHam.pdb
+C:\KCHam\KCHam\obj\Debug\KCHam.csproj.AssemblyReference.cache
+C:\KCHam\KCHam\obj\Debug\KCHam.Form1.resources
+C:\KCHam\KCHam\obj\Debug\KCHam.exe
+C:\KCHam\KCHam\obj\Debug\KCHam.pdb
